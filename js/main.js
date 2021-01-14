@@ -1,5 +1,4 @@
 import users from './users.js';
-console.log(users);
 
 // TASK 1
 // Получить массив имен всех пользователей (поле name).
